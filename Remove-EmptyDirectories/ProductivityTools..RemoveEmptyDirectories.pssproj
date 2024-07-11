@@ -27,8 +27,8 @@
   </PropertyGroup>
   <ItemGroup />
   <ItemGroup>
-    <Compile Include="Remove-EmptyDirectories.psd1" />
-    <Compile Include="Remove-EmptyDirectories.psm1" />
+    <Compile Include="ProductivityTools..RemoveEmptyDirectories.psd1" />
+    <Compile Include="ProductivityTools.RemoveEmptyDirectories.psm1" />
     <Compile Include="Runner.ps1" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
